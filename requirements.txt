@@ -1,0 +1,6 @@
+pandas
+requests
+praw
+google-api-python-client 
+nltk
+textblob

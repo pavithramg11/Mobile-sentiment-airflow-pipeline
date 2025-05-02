@@ -1,0 +1,12 @@
+CSV Output Preview:
+[2025-04-25, 00:21:16 UTC] {logging_mixin.py:190} INFO -  Title,Brand,Platform,Cleaned,Sentiment,Polarity
+28 Years Later: Danny Boyle’s New Zombie Flick Was Shot on an iPhone 15,iPhone 15,Reddit,28 years later danny boyles new zombie flick was shot on an iphone 15,Positive,0.0681818181818181
+Microsoft Orders China Staff to Use iPhones for Work and Drop Android,iPhone 15,Reddit,microsoft orders china staff to use iphones for work and drop android,Neutral,0.0
+Apple Explains iPhone 15 Pro Requirement for Apple Intelligence,iPhone 15,Reddit,apple explains iphone 15 pro requirement for apple intelligence,Neutral,0.0
+Apple sales fall in nearly all countries: The company said that demand for its smartphones dropped by more than 10% in the first three months of this year.,iPhone 15,Reddit,apple sales fall in nearly all countries the company said that demand for its smartphones dropped by more than 10 in the first three months of this year,Positive,0.2833333333333333
+iPhone repair: Apple to allow used parts in iPhone 15 repairs in fall,iPhone 15,Reddit,iphone repair apple to allow used parts in iphone 15 repairs in fall,Neutral,0.0
+Apple Faces Antitrust Class Action Alleging iCloud Monopoly,iPhone 15,Reddit,apple faces antitrust class action alleging icloud monopoly,Positive,0.1
+"No, iPhones aren't all 'the same.' All the new features from iPhone 11 to iPhone 15.",iPhone 15,Reddit,no iphones arent all the same all the new features from iphone 11 to iphone 15,Positive,0.0681818181818181
+iPhone 15 Pro issues resurface as Apple employee confirms increased defects for premium titanium smartphone,iPhone 15,Reddit,iphone 15 pro issues resurface as apple employee confirms increased defects for premium titanium smartphone,Neutral,0.0
+"How to fix your iPhone 15 | Repair guides for the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, and iPhone 15 Pro Max are all live",iPhone 15,Reddit,how to fix your iphone 15  repair guides for the iphone 15 iphone 15 plus iphone 15 pro and iphone 15 pro max are all live,Positive,0.1363636363636363
+Apple Wants To Make 1-In-4 iPhones In India As Tata Plans To Build Country’s Biggest Factory For The Smartphone,iPhone 15,Reddit,apple wants to make 1in4 iphones in india as tata plans to build countrys biggest factory for the smartphone,Positive,0.2
